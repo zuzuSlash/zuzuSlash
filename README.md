@@ -1,6 +1,6 @@
-[![Laptop and Tea](https://raw.githubusercontent.com/usuario/repositorio/rama/archivo.gif)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+[![Laptop and Tea](https://raw.githubusercontent.com/zuzuSlash/Recursos/master/autumn-aesthetic.gif)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <p>
-  <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Julian 👋</b></h1>
 </p>
 
 <p>
