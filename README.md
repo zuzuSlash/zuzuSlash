@@ -1,4 +1,4 @@
-[![Laptop and Tea](https://raw.githubusercontent.com/zuzuSlash/Recursos/master/autumn-aesthetic.gif)]
+[![Laptop and Tea]([https://raw.githubusercontent.com/zuzuSlash/Recursos/master/autumn-aesthetic.gif](https://github.com/zuzuSlash/Recursos/blob/master/Recursos/autumn-aesthetic.gif))]
 <p>
   <h1 align="center"><b>Hello there, I'm Julian 👋</b></h1>
 </p>
