@@ -30,7 +30,6 @@
 - 🌱 Estoy desarrollando proyectos personales en Android para mejorar mis habilidades y familiarizarme con el desarrollo móvil.
 - 👯 Busco colaborar con otros desarrolladores en proyectos interesantes y enriquecer mi experiencia en el campo.
 - 🥅 Metas para 2024: Aumentar mis conocimientos en desarrollo de aplicaciones y técnicas de diseño de UI/UX.
-- 💬 ¡Pregúntame sobre cualquier tema relacionado con el desarrollo de aplicaciones! Estoy aquí para ayudar. :smile:
 - 📬 ¿Cómo contactarme? [¡Hablemos!][linkedin]
 - ⚡ Curiosidad: ¡Disfruto explorar nuevas tecnologías y resolver problemas creativos! :raised_hands:
 
@@ -67,10 +66,6 @@
 
 ### 📊 &nbsp; ESTADÍSTICAS
 
-**Desde el primer "Hello World" he escrito 1.4 millones de líneas de código ✍️**
-
-**Soy un madrugador 🐤** 
-
 | | | | |
 | --- | --- | --- | --- |
 |🌞 Mañana                |132 commits         |![](https://via.placeholder.com/112x22/000000/000000?text=+)![](https://via.placeholder.com/288x22/b8b8b8/b8b8b8?=text=+)|27.5%|
@@ -79,7 +74,6 @@
 |🌙 Madrugada                  |25 commits          |![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|5.21%|
 | | | | |
 
-📅 **Soy más productivo los viernes** 
 
 | | | | |
 | --- | --- | --- | --- |
